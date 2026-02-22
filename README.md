@@ -89,7 +89,5 @@ jupyter notebook Leaf_Classification_CNN.ipynb
 
 This project is licensed under the MIT License.
 
-```
-
 
 
